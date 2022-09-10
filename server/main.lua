@@ -1,3 +1,4 @@
+-- https://github.com/ArifKobel
 RegisterNetEvent(ARIF.Multichar.Trigger)
 AddEventHandler(ARIF.Multichar.Trigger, function()
     if ARIF.Multichar.enable then

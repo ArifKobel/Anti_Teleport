@@ -1,6 +1,6 @@
 fx_version 'cerulean'
 game 'gta5'
-author "Arif"
+author "github.com/ArifKobel"
 version "1.0.0"
 
 client_scripts {

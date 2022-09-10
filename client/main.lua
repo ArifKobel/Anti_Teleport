@@ -1,3 +1,4 @@
+-- https://github.com/ArifKobel
 local firstSpawn = true
 
 function StartProtection()
